@@ -6,4 +6,4 @@ numpy
 python-multipart
 aiofiles
 gunicorn
-
+sumy
